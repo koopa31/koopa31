@@ -9,4 +9,4 @@ Almost all I develop is biomedical or microscopy image analysis algorithms. For 
 
 <h3>Maintainer and author of:</h3>
 
-[Svetlana]([https://github.com/mastodon-sc](https://www.napari-hub.org/plugins/napari-svetlana)) (The Napari plugin for classifying ROI in segmentation masks.)
+[Svetlana](https://www.napari-hub.org/plugins/napari-svetlana) (The Napari plugin for classifying ROI in segmentation masks.)
