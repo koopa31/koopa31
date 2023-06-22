@@ -5,7 +5,7 @@ Almost all I develop is biomedical or microscopy image analysis algorithms. For 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koopa31&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![cazorla's GitHub stats](https://github-readme-stats.vercel.app/api?username=koopa31&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![cazorla's GitHub stats](https://github-readme-stats.vercel.app/api?username=koopa31&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>Maintainer and author of:</h3>
 
