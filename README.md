@@ -7,3 +7,6 @@ Almost all I develop is biomedical or microscopy image analysis algorithms. For 
 
 [![cazorla's GitHub stats](https://github-readme-stats.vercel.app/api?username=koopa31&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<h3>Maintainer and author of:</h3>
+
+[Svetlana]([https://github.com/mastodon-sc](https://www.napari-hub.org/plugins/napari-svetlana) (The Napari plugin for classifying ROI in segmentation masks.)
