@@ -10,3 +10,4 @@ Almost all I develop is biomedical or microscopy image analysis algorithms. For 
 <h3>Maintainer and author of:</h3>
 
 [Svetlana](https://www.napari-hub.org/plugins/napari-svetlana) (The Napari plugin for classifying ROI in segmentation masks.)
+[Sketchpose](https://www.napari-hub.org/plugins/napari-sketchpose) (The Napari plugin for segmenting cells training a model with sparse annotations.)
