@@ -1,5 +1,5 @@
 <h1>Clément CAZORLA</h1>
-<h3>PhD student in bioimage analysis @ <a href="https://www.imactiv-3d.com/">Imactiv-3D, Toulouse</a></h3>
+<h3>Postdoc in bioimage analysis @ <a href="https://www.imactiv-3d.com/">Imactiv-3D, Toulouse</a></h3>
 
 Almost all I develop is biomedical or microscopy image analysis algorithms. For confidentiality reasons, unfortunately, most repositories are private. Also, most of the things I develop are available on BitBucket.
 
